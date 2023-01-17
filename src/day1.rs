@@ -40,6 +40,6 @@ mod tests {
 9000
 
 10000"#;
-		assert_eq!(solution(input), 24000);
+		assert_eq!(solution(input).0, 24000);
 	}
 }
